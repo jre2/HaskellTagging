@@ -1,3 +1,5 @@
+module Data.Tag where
+
 import Text.Regex.PCRE.Light
 import qualified Data.ByteString.Char8 as B
 import Data.List
