@@ -1,0 +1,14 @@
+Name:                tagging
+Version:             0.1
+Synopsis:            Library for tagging data
+Homepage:            git://github.com/jre2/HaskellTagging.git
+License:             BSD3
+License-file:        LICENSE
+Author:              Joseph Re
+Maintainer:          overture2112@gmail.com
+Category:            Data
+Build-type:          Simple
+Cabal-version:       >=1.2
+
+Library
+  Exposed-modules:     Data.Tag
